@@ -1,0 +1,277 @@
+MESONS
+
+CONTENT		PARTICLE NAMES
+u ubar		Pi(0), Eta, Eta', Rho(0), Omega
+d dbar
+u dbar		Pi(+), Rho(+)
+
+u sbar		K(+), K*(+)
+d sbar		K(0), K*(0)
+s sbar		Eta, Eta', Phi
+
+c dbar		D(+), D*(+)
+c ubar		D(0), D*(0)
+c sbar		Ds(+), Ds*(+)
+c cbar		EtaC, Psi
+
+u bbar		B(+), B*(+)
+d bbar		B(0), B*(0)
+s bbar		Bs(0), Bs*(0)
+c bbar		Bc(+), Bc*(+)
+b bbar		EtaB, Upsilon
+
+PARTICLE	CONTENT		MASS (MeV/c^2)	DISCOVERY
+
+CONTAINING ud
+
+Pi(+)		u dbar		140		1947
+Rho(+)					776		1961
+
+Pi(0)		u ubar		135		1950
+			d dbar		
+Eta					548		1961
+Rho(0)				775		1961
+Omega				783		1961
+Eta prime			958		1963
+
+CONTAINING uds
+
+Eta			s sbar		548		1961
+Eta prime	s sbar		958		1963
+Phi			s sbar		1019	1962
+
+K(+)		u sbar		494		1947
+K*(+)					892		1961
+
+K(0)		d sbar		498		1947
+K*(0)					896		1961
+
+CONTAINING udsc
+
+D(+)		c dbar		1870		1976
+D*(+)					2010
+	
+D(0)		c ubar		1865		1976
+D*(0)					2007
+	
+Ds(+)		c sbar		1968		1983
+Ds*(+)					2112
+
+EtaC		c cbar		2984		1980
+Psi						3097		1974
+
+CONTAINING udscb
+
+B(+)		u bbar		5279		1981
+B*(+)					5325
+			
+B(0)		d bbar		5280		1981
+B*(0)					5325
+		
+Bs(0)		s bbar		5367		1991
+Bs*(0)					5415
+
+Bc(+)		c bbar		6276
+Bc*(+)					????		NOT DISCOVERED!
+		
+EtaB		b bbar		9398		2008
+Upsilon		b bbar		9460		1977
+
+MESONIOKTETTI (Spin 0)
+
+	|Q=-1	Q=0	Q=1
+____|______________________
+S=1	|	K0	K+
+S=0	|Pi-	Pi0	Pi+
+S=-1	|K-	Kbar
+
+MESONIOKTETTI (Spin 1)
+
+	|Q=-1	Q=0	Q=1
+____|______________________
+S=1	|	K*0	K*+
+S=0	|Rho-	Rho0	Rho+
+S=-1	|K*-	K*bar
+
+
+KOKOELMA (hiukkaset)
+
+	|u	d	s	c	b
+____|______________________________________
+u	|Pi	Pi	K	D	B
+d	|	Pi	K	D	B
+s	|		Eta	Ds	Bs
+c	|			Psi	Bc
+b	|				Upsilon
+
+KOKOELMA (LÖYTYMISVUODET)
+
+
+	|u		d		s		c		b
+____|______________________________________
+u	|1950	1947	1947	1976	1981
+d	|		1950	1947	1976	1981
+s	|				1961	1983	1991
+c	|						1974	Bc
+b	|								1977
+
+
+BARYONS
+Lähteitä:
+https://phys.org/news/2009-06-fermilab-cdf-omega-sub-b-baryon.html
+https://press.cern/press-releases/2017/07/lhcb-experiment-charmed-announce-observation-new-particle-two-heavy-quarks
+https://home.cern/about/updates/2017/03/lhcb-observes-exceptionally-large-group-particles
+https://home.cern/about/updates/2017/07/lhcb-announces-charming-new-particle
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.99.052001
+
+CONTENT		PARTICLE NAMES		DISCOVERY	MASS (MeV/c^2)
+CONTAINING ud
+uuu		Delta(++)		1952		1232
+uud		Delta(+)		1952		1232
+		p				1886		938
+udd		Delta(0)		1952		1232
+		n				1932		940
+ddd		Delta(-)		1952		1232
+
+CONTAINING uds
+uus		Sigma(+)		1953		1189
+		Sigma*(+)					1383
+uds		Sigma(0)		1957		1192
+		Sigma*(0)					1384
+		Lambda(0)		1950		1116
+dds		Sigma(-)		1953		1197
+		Sigma*(-)					1387
+uss		Xi(0)			1959		1315
+		Xi*(0)						1532
+dss		Xi(-)			1952		1322
+		Xi*(-)						1535
+sss		Omega(-)		1964		1672
+
+CONTAINING udsc
+uuc		SigmaC(++)		1979		2454
+		SigmaC*(++)					2518
+udc		SigmaC(+)		1979		2453
+		SigmaC*(+)					2518
+		LambdaC(+)		1974		2286
+ddc		SigmaC(0)		1979		2454
+		SigmaC*(0)					2519
+usc		XiC(+)			Löytynyt	2469
+		XiC'(+)						2576
+		XiC*(+)						2646
+dsc		XiC(0)			1983		2471
+		XiC'(0)						2578
+		XiC*(0)						2646
+ssc		OmegaC(0)		2017 (LHCb)	2695
+		OmegaC*(0)					2766
+ucc		XiCC(++)		2017 (LHCb)	3621
+		XiCC*(++)		NO		
+dcc		XiCC(+)			2002? (Selex? Not confirmed by Focus/Babar/Belle/LHCb)
+		XiCC*(+)		NO		
+scc		OmegaCC(+)		NO		
+ccc		OmegaCCC(+)		NO		
+		
+CONTAINING udscb					
+uub		SigmaB(+)		2006		5811
+		SigmaB*(+)					5832
+udb		SigmaB(0)		NO		
+		SigmaB*(0)		NO		
+		LambdaB(0)		1991		5619
+ddb		SigmaB(-)		2006		5815
+		SigmaB*(-)					5835
+usb		XiB(0)			2007		5789
+		XiB'(0)				
+		XiB*(0)					
+dsb		XiB(-)			2007		5791
+		XiB'(-)			2014		5935
+		XiB*(-)			2014		5955
+ssb		OmegaB(-)		2009		6054
+		OmegaB*(-)		NO		
+ucb		XiCB(+)			NO
+		XiCB'(+)		NO		
+		XiCB*(+)		NO		
+dcb		XiCB(0)			NO	
+		XiCB'(0)		NO		
+		XiCB*(0)		NO		
+scb		OmegaCB(0)		NO		
+		Omega'CB(0)		NO		
+ccb		OmegaCCB(+)		NO		
+ubb		XiBB(0)			NO	
+		XiBB*(0)		NO		
+dbb		XiBB(-)			NO	
+		XiBB*(-)		NO		
+sbb		OmegaBB(-)		NO		
+cbb		OmegaCBB(0)		NO		
+bbb		OmegaBBB(-)		NO		
+
+BARYONIDEKUPLETTI (Spin 3/2)
+
+	|Q=-1	Q=0		Q=1		Q=2
+____|_____________________________
+S=0	|Delta	Delta	Delta	Delta
+S=1	|Sigma*	Sigma*	Sigma*
+S=2	|Xi*	Xi*
+S=3	|Omega
+
+BARYONIOKTETTI (Spin 1/2)
+	|Q=-1	Q=0	Q=1
+_______	|_____________________
+S=0	|	n	p
+S=1	|Sigma	Sigma	Sigma
+S=2	|Xi	Xi
+
+
+	|u		d		s		c		b
+____|______________________________________
+uu	|uuu	uud		uus		uuc		uub
+ud	|		udd		uds		udc		udb
+dd	|		ddd		dds		ddc		ddb		
+us	|				uss		usc		usb
+ds	|				dss		dsc		dsb
+ss	|				sss		ssc		ssb
+uc	|						ucc		ucb
+dc	|						dcc		dcb
+sc	|						scc		scb
+cc	|						ccc		ccb
+ub	|								ubb
+db	|								dbb
+sb	|								sbb
+cb	|								cbb
+bb	|								bbb
+
+KOKOELMA (hiukkaset)
+	|u		d		s		c		b
+____|______________________________________
+uu	|Delta	p		Sigma	SigmaC	SigmaB
+ud	|		n		Sigma	SigmaC	SigmaB
+dd	|		Delta	Sigma	SigmaC	SigmaB	
+us	|				Xi		XiC		XiB
+ds	|				Xi		XiC		XiB
+ss	|				Omega	OmegaC	OmegaB
+uc	|						XiCC	XiCB
+dc	|						XiCC	XiCB
+sc	|						OmegaCC	OmegaCB
+cc	|						OmegCCC	OmegaCCB
+ub	|								XiBB
+db	|								XiBB
+sb	|								OmegaBB
+cb	|								OmegaCBB
+bb	|								OmegaBBB
+
+KOKOELMA (löytymisvuodet)
+	|u		d		s		c		b
+____|______________________________________
+uu	|1952	1886	1953	1980	2006
+ud	|		1932	1958	1980	1991
+dd	|		1952	1953	1980	2006
+us	|				1959	1983	2007
+ds	|				1953	1983	2007
+ss	|				1964	2017	2009
+uc	|						2017	XiCB
+dc	|						2002??	XiCB
+sc	|						OmegaCC	OmegaCB
+cc	|						OmegCCC	OmegaCCB
+ub	|								XiBB
+db	|								XiBB
+sb	|								OmegaBB
+cb	|								OmegaCBB
+bb	|								OmegaBBB

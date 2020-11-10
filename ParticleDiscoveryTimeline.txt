@@ -1,0 +1,222 @@
+YEAR	PARTICLE	PERSON/COLLABORATION			NOBEL
+1895	photon		W Röntgen						1901
+1897	electron	JJ Thomson						1906
+1919	proton		E Rutherford					1908 (chemistry)
+1932	neutron		Chadwick						1935
+1932	positron	Anderson						1936
+					Predicted: Dirac 1927			1933
+1937	muon		Anderson			
+1947	pion		Powell							1950
+					Predicted: Yukawa 1935			1949
+1947	kaon		Butler, Rochester				
+1950	Lambda-0	Hopper, Biswas
+1950	charged pi		
+1952	charged Xi	Manchester group		
+1951	Delta
+1953	charged Sigma					
+1955	antiproton	Segrè, Chamberlain				1959
+					Predicted: Dirac 1927		
+1956	e-neutrino	Cowan, Reines					1995
+					Predicted: Pauli 1930			1945
+1958	neutral Sigma					
+1959	anti-Lambda-0					
+1959	Xi-0						
+1961	Rho meson					
+1961	Omega meson					
+1961	Eta meson	Bevatron			
+1962	Phi meson	AGS				
+					Predicted: Sakurai 1962	
+1962	mu-neutrino	Lederman/Schwartz/Steinberger	1988
+1963	Eta prime	
+1964	Omega minus	Brookhaven laboratory		
+					Predicted: Gell-Mann 1961		1969	
+1968	quark		SLAC				
+					Called: Gell-Mann/Zweig 		1964
+1974	charm		Richter, Ting					1976
+		J/psi		Called: Glashow/Björken	1964 (no evidence)
+					Called: Glashow/I./M. 1970		1979 (requires c-quark)
+1975	tau			Perl							1995
+					Called: Kobayashi/Maskawa 1973	2008
+1975	Chi-c meson
+1976	D meson		SLAC				
+1977	bottom		Lederman			
+		Upsilon		Called: Kobayashi/Maskawa 1973	
+1979	Sigma-c
+1979	Lambda-c
+1979	Gluon		PLUTO, PETRA			
+					Called: Gell-Mann 1962		
+1980	Eta-c
+1981	B meson
+1983	D-s meson
+1983	Xi-c meson
+1983	W/Z bosons	Rubbia, van der Meer			1984
+					Called: G./Weinberg/Salam 1968	1979
+1991	B-s meson
+(1991	Sigma-b-0	EI LÖYTYNYT?!)
+1991	Lambda-b
+1995	top			CDF/D0
+					Called: Kobayashi/Maskawa 1973	2008
+2000	\nu_\tau	DONUT
+					Called: Kobayashi/Maskawa 1973	2008
+2006	Charged Sigma-b
+2007	Xi-b meson	CDF/D0
+2008    EtaB		
+2008	Omega-b		D0/Tevatron
+2012	Higgs		ATLAS/CMS
+					Called: Englert/Higgs 1964		2013
+2017	Omega-c
+2017	Xi-cc
+
+OCTETS, NONETS AND DECUPLETS
+
+MESON DECUPLET JP = 0-, Charm = 0
+
+	K0		K+
+	1947		1947
+
+		Eta
+		1961
+		Pi0		
+Pi-		1950		Pi+
+1947	Eta'		1947
+		1963
+		Eta-c
+		1980
+		
+	K-		K0bar
+	1947		1947
+
+Charm = +1, antiparticle almost identical for Charm = -1.
+
+	Ds+
+	1983
+
+D0		D+
+1976		1976
+
+MESON DECUPLET JP = 1-, Charm = 0
+
+	K*0		K*+
+	1961		1961		
+
+		Omega
+		1961
+		Rho0		
+Rho-	1961		Rho+
+1961	Phi		1961
+		1962
+		J/Psi
+		1974
+		
+	K*-		K*0bar
+	1961		1961
+
+Charm = +1, antiparticles almost identical for Charm = -1.
+
+	D*s+
+	????
+
+D*0		D*+
+????		????
+
+
+BARYON OCTET JP = (1/2)+, Charm = 0
+
+	n		p
+	1932		1919
+
+		Sigma0
+Sigma-	1957		Sigma+
+1953	Lambda		1953
+		1950
+		
+	Xi-		Xi0
+	1953		1958
+
+Charm = +1
+
+			Lambda-c+
+Sigma-c0	1979		Sigma-c++
+1979		Sigma-c+	1979
+			1979
+	
+	Xi-c0		Xi-c+
+	1983		1983
+
+		Omega-c0
+		????
+
+Charm = +2
+
+Xi-cc+		Xi-cc++
+????		????
+
+	Omega-c++
+	????
+
+Bottom = +1
+
+
+		
+
+BARYON DECUPLET JP = (3/2)+, Charm = 0
+
+Delta-		Delta0		Delta+		Delta++
+1952		1952		1952		1952
+	
+	Sigma*-		Sigma*0		Sigma*+
+	????		????		????
+	
+		Xi*-		Xi*0
+		????		????
+		
+			Omega-
+			1963
+
+Charm = +1
+
+Sigma-c0	Sigma-c+	Sigma-c++
+1979		1979		1979
+
+	Xi-c0		Xi-c+
+	1983		1983
+
+		Omega-c0
+		????
+
+Charm = +2
+
+Xi-cc+		Xi-cc++
+????		????
+
+	Omega-cc+
+	????
+
+Charm = +3
+
+Omega-ccc++
+----
+
+Bottom = +1
+
+Sigma-b-	Sigma-b0	Sigma-b+
+????		----		????
+
+	Xi-b-		Xi-b0
+	2007		2008
+
+		Omega-b-
+		----
+
+Bottom = +2
+
+Xi-bb-		Xi-bb0
+----		----
+
+	Omega-bb-
+	----
+
+Bottom = +3
+
+Omega-bbb-
+----
